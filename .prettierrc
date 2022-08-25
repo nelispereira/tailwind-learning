@@ -2,6 +2,7 @@
   "singleQuote": true,
   "trailingComma": "all",
   "semi": true,
-  "printWidth": 120,
-  "arrowParens": "avoid"
+  "proseWrap": "never",
+  "arrowParens": "avoid",
+  "printWidth": 1000
 }
