@@ -9,9 +9,11 @@ module.exports = {
           escuro: '#061E3C',
           hover: '#1057B0',
         },
+        gabiPrimary: '#f2dae7',
       },
       fontFamily: {
         inter: ['Inter', 'sans-serif'],
+        gabiTitulo: ['Vast Shadow', 'cursive'],
       },
     },
   },
