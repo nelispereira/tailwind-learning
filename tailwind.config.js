@@ -15,6 +15,19 @@ module.exports = {
         inter: ['Inter', 'sans-serif'],
         gabiTitulo: ['Vast Shadow', 'cursive'],
       },
+      keyframes: {
+        sino_kf: {
+          '0%, 100%': {
+            transform: 'rotate(-10deg)',
+          },
+          '50%': {
+            transform: 'rotate(10deg)',
+          },
+        },
+      },
+      animantion: {
+        sino: 'sino_kf 0.31s ease-in-out infinite',
+      },
     },
   },
   plugins: [],
