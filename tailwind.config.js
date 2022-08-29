@@ -25,7 +25,7 @@ module.exports = {
           },
         },
       },
-      animantion: {
+      animation: {
         sino: 'sino_kf 0.31s ease-in-out infinite',
       },
     },
